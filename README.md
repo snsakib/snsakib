@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-<table cellpadding="0" border="0">
-  <tr>
+<table cellpadding="0" style="border: 1px solid red;">
+  <tr style="border: 1px solid green;">
     <!-- GitHub Stats Card -->  
-    <td style="margin:0;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td style="border: 1px solid yellow;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
-    <td style="margin:0;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/></td>
+    <td style="border: 1px solid yellow;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/></td>
   </tr>
 </table>
