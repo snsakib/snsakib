@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <br/>
 
 <!-- GitHub Stats Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; height: 200px;">
+  <img align="center" style="height: 100%" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats" />
 </a>
 
 <!-- GitHub Top Language Card -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML" />
+<a href="https://github.com/anuraghazra/github-readme-stats" style="display: inline-block; height: 200px;">
+  <img align="center" style="height: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML" />
 </a>
 
