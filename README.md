@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<table>
+<table cellpadding="0" border="0">
   <tr>
     <!-- GitHub Stats Card -->  
     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
