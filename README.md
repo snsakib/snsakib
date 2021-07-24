@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ![banner](./assets/img/banner.jpg)
 
 <br/>
@@ -29,11 +23,11 @@ td, th {
 
 <br/>
 
-<table cellpadding="0" style="border: 1px solid red;">
-  <tr style="border: 1px solid green;">
+<table cellpadding="0">
+  <tr>
     <!-- GitHub Stats Card -->  
-    <td style="border: 1px solid yellow;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
     <!-- GitHub Top Language Card -->
-    <td style="border: 1px solid yellow;" valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/></td>
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/></td>
   </tr>
 </table>
