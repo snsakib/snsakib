@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 ![banner](./assets/img/banner.jpg)
 
 <br/>
