@@ -26,5 +26,5 @@ Here are some ideas to get you started:
   <!-- GitHub Stats Card -->  
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats&include_all_commits=TRUE"/>
   <!-- GitHub Top Language Card -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
 
