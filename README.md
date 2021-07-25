@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div style="display: flex; position: relativve;">
   <!-- GitHub Stats Card -->  
-  <img style="display: block; position: absolute;" height="200" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
+  <img style="display: inline-block;" height="200" width="40%" src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
   <!-- GitHub Top Language Card -->
-  <img style="display: block; position: absolute;" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/>
-</div>
+  <img style="display: inline-block;" height="200" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML"/>
+
