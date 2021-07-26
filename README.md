@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-<!-- Profile View Counter -->
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=snsakib)
-
-<br/>
-
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
