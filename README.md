@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&include_all_commits=true&count_private=true&show_icons=true" alt="Showrin's Github Commit Stats" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"" alt="Sakib's GitHub Commit Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=Showrin&layout=compact&count_private=true" alt="Showrin's Github Top Languages Stats" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin" alt="Showrin's Github Streak Stats" height="180em">
 </p>
