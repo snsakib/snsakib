@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ![banner](./assets/img/giphy.gif)
 
+<img src="./assets/img/giphy.gif">
+
 <br/>
 
 <p align="center">
