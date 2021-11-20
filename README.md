@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![banner](./assets/img/giphy.gif)
 
-<img src="./assets/img/giphy.gif" width="1200px">
+<img src="./assets/img/giphy.gif" width="1000px">
 
 <br/>
 
