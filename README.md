@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/img/giphy.gif" width="800px" height="200px">
+<img src="./assets/img/giphy.gif" width="1000px" height="200px">
 <br/>
 
 <p align="center">
