@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <img src="./assets/img/banner.gif" width="1000px" height="281px">
 <br/>
 
+<span style="text-align: center;"> :wave: Hi! There. I'm Sakib</span> 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"" alt="Sakib's GitHub Commit Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages" alt="Sakib's Github Top Languages Stats" height="180em">
