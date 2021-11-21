@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/img/banner.gif" width="1000px" height="281px">
-<br/>
 
-<h2 align="center"> 
+<h1 align="center"> 
  :wave: Hi! I'm <b><i>Sakib</i><b>
-</h2>
-<h3 align="center">Full-Stack Web Developer @ <a href="https://kaz.com.bd/">Kaz Software Limited</a> </h3>
+</h1>
+<!-- <h3 align="center">Full-Stack Web Developer @ <a href="https://kaz.com.bd/">Kaz Software Limited</a> </h3> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snsakib&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"" alt="Sakib's GitHub Commit Stats" height="180em">&nbsp;&nbsp;
