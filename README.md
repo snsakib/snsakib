@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/img/banner.png" width="1000px" height="281px">
+<img src="./assets/img/banner.png">
 
 <h1 align="center"> 
  :wave: Hi! I'm <b><i>Sakib</i><b>
