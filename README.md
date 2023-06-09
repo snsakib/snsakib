@@ -1,4 +1,4 @@
-<img src="./assets/img/banner.png">
+<img src="./assets/img/banner.jpg">
 
 <h1 align="center"> 
  :wave: Hi! I'm <b><i>Sakib</i><b>
