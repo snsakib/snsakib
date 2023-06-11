@@ -24,8 +24,8 @@ Alternatively, if you prefer a face-to-face virtual meeting, you can schedule an
 ### **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-n-sakib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9611676) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syed_n_sakib)
  
-### **GitHub Stats:**
+<!-- ### **GitHub Stats:**
 ![](https://github-readme-stats.vercel.app/api?username=snsakib&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=snsakib&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 
