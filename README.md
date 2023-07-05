@@ -16,6 +16,9 @@ Additionally, I've also been able to share my knowledge as an educator. I provid
 - Blockchain: Ethereum, Solidity, Hardhat, Truffle, ethers.js, web3.js, IPFS, DeFi
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,angular,react,vue,nodejs,nextjs,php,laravel,wordpress,git,mongodb,mysql,solidity,py,r,,)](https://skillicons.dev)
+
+### **My Courses:**
+- [Mastering State Management with Angular and NgRx](https://www.educative.io/courses/mastering-state-management-with-angular-and-ngrx)
  
 If you think I can help you with **Web Development** or **Blockchain**, feel free to reach out to me via email at [hello@snsakib.com](mailto:hello@snsakib.com)
 
