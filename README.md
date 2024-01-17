@@ -19,6 +19,7 @@ Additionally, I've also been able to share my knowledge as an educator. I provid
 
 ### **My Courses:**
 - [Mastering State Management with Angular and NgRx](https://www.educative.io/courses/mastering-state-management-with-angular-and-ngrx)
+- [Develop Smart Contract for NFT Marketplace](https://educat.tv/3HcT7Gu)
  
 If you think I can help you with **Web Development** or **Blockchain**, feel free to reach out to me via email at [hello@snsakib.com](mailto:hello@snsakib.com)
 
