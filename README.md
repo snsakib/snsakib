@@ -23,8 +23,6 @@ Additionally, I've also been able to share my knowledge as an educator. I provid
  
 If you think I can help you with **Web Development** or **Blockchain**, feel free to reach out to me via email at [hello@snsakib.com](mailto:hello@snsakib.com)
 
-Alternatively, if you prefer a face-to-face virtual meeting, you can schedule an appointment with me using the link [https://calendly.com/snsakib](https://calendly.com/snsakib)
-
 ### **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-n-sakib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9611676) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syed_n_sakib)
  
