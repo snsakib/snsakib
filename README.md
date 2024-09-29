@@ -5,11 +5,17 @@
 </h1>
 <!-- <h3 align="center">Full-Stack Web Developer @ <a href="https://kaz.com.bd/">Kaz Software Limited</a> </h3> -->
 
-As a software engineer, I think of myself as a problem solver. Whether the solution requires exploring new technologies or getting out of my comfort zone, I'm always prepared to accept the challenge.
+As a software engineer, I see myself primarily as a problem solver. Whether it involves diving into new technologies or stepping out of my comfort zone, I am always ready to take on the challenge.
 
 ### **Experiences:**
-Throughout my career, I've had the opportunity to work with diverse teams and esteemed organizations like the **World Bank**. I've had the chance to contribute to different domains, each with its unique challenges.
-Additionally, I've also been able to share my knowledge as an educator. I provide online tutorials to help other developers enhance their skills and expand their knowledge.
+Over the past 5+ years, I’ve had the privilege of working with diverse teams and renowned organizations such as:
+- World Bank
+- Commonwealth of Learning
+- Robi Axiata Limited
+- Polar Ice Cream Limited etc.
+Each project presented unique challenges across different domains.
+ 
+I've also shared my expertise as an educator, creating courses on Educative.io focused on Web Development and Blockchain.
  
 ### **Tech Stack:**
 - Web Development: JavaScript, TypeScript, Angular, React, Vue, Next.js, Node.js, PHP, Laravel, WordPress, MySQL, MongoDB
@@ -20,8 +26,9 @@ Additionally, I've also been able to share my knowledge as an educator. I provid
 ### **My Courses:**
 - [Mastering State Management with Angular and NgRx](https://www.educative.io/courses/mastering-state-management-with-angular-and-ngrx)
 - [Develop Smart Contract for NFT Marketplace](https://educat.tv/3HcT7Gu)
- 
-If you think I can help you with **Web Development** or **Blockchain**, feel free to reach out to me via email at [hello@snsakib.com](mailto:hello@snsakib.com)
+- [Build an NFT Marketplace dApp](https://www.educative.io/projects/build-an-nft-marketplace-decentralized-application-dapp)
+
+If you need assistance with **Web Development** or **Blockchain** projects, feel free to reach out via email at [hello@snsakib.com](mailto:hello@snsakib.com)
 
 ### **Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/s-n-sakib) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9611676) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/syed_n_sakib)
