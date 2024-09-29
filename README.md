@@ -13,6 +13,7 @@ Over the past 5+ years, I’ve had the privilege of working with diverse teams a
 - Commonwealth of Learning
 - Robi Axiata Limited
 - Polar Ice Cream Limited etc.
+
 Each project presented unique challenges across different domains.
  
 I've also shared my expertise as an educator, creating courses on Educative.io focused on Web Development and Blockchain.
